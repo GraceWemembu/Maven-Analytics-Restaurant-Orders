@@ -21,6 +21,9 @@ The dataset was sourced from Maven Analytics website. It consists of two tables 
 
 ![erd](https://github.com/user-attachments/assets/bafbe3ec-3ad5-45c4-986f-7254b61f0d64)
 
+
+The full report can be read [here](https://medium.com/@graceogo/maven-analytics-restaurant-orders-what-do-our-customers-say-18bae810538e)
+
 **Tool used:**
 
-MySQL, Excel
+MySQL, Tableau
