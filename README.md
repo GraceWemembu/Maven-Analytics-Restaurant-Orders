@@ -1,9 +1,9 @@
 # Maven-Analytics-Restaurant-Orders
-Objectives: 
+**Objectives:** 
 
 A fictitious restaurant serving international cuisines seeks to uncover insights from customers' purchasing habits and use these insights to expand the restaurant's menu.
 
-Recommended Analysis:
+**Recommended Analysis**:
 
 1. What were the least and most ordered items? What categories were they in?
 
@@ -13,10 +13,14 @@ Recommended Analysis:
 
 4. Which cuisines should we focus on developing more menu items for based on the data?
 
-Data description:
+**Data description:**
 
 The dataset was sourced from Maven Analytics website. It consists of two tables with a total of 12,266 records.
 
-Tool used:
+**Entity Relationship Diagram(ERD)**
 
-MySQL
+![erd](https://github.com/user-attachments/assets/bafbe3ec-3ad5-45c4-986f-7254b61f0d64)
+
+**Tool used:**
+
+MySQL, Excel
